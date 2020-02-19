@@ -33,3 +33,14 @@ th{
 button{
     padding: 8px;
 }
+
+.horse{
+    width: 64px;
+    height: 64px;
+    border: 1px solid black;
+    background-image: url(../img/horse.PNG);
+    background-size: 64px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
