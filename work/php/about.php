@@ -11,14 +11,7 @@
 
 
 
-<header>
-    <nav>
-        <a href="me.html">Me</a> |
-        <a href="report.html">Report</a> | 
-        <a href="about.html">About</a> |
-        <a href="schools.html">Schools</a>
-    </nav>
-</header>
+<?php include 'view/header.php';?>
 
 
 
@@ -37,11 +30,7 @@
 
 </article>
 
-<footer>
-    <hr>
-    <p>This website contatins reports and assignments of Stina Ahlström</p>
-    <p>HAVE A NICE DAY !</p>
-</footer>
+<?php include 'view/footer.php';?>
 <div id="horse" class="horse"></div>
 <script type="text/javascript" src="js/horse.js"></script>
 <script type="text/javascript" src="js/main.js"></script>

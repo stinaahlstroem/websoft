@@ -12,15 +12,7 @@
 
 
 
-    <header>
-        <nav>
-            <a href="me.html">Me</a> |
-            <a href="report.html">Report</a> | 
-            <a href="about.html">About</a> |
-            <a href="schools.html">Schools</a>
-        </nav>
-    </header>
-
+<?php include 'view/header.php';?>
 
 
 <article>
@@ -104,21 +96,21 @@
     <p>Today I learned how to work with express and Node and how to use them as a server instead of XAMPP.</p>
     </section>
 
-    <section>
-        <h2>S05</h2>
-        <p>How do you feel about PHP as a programming language?</p>
-        <p>I think it's quite straight forward </p>
-        <br>
-        <p>Can you compare PHP to other languages you know?</p>
-        <p>I have only worked with Java and JavaScpipt so it was a bit different with example $ dollar sign before variables.</p>
-        <br>
-        <p>Describe how you took on the coding exercise, what grade did you aim for and are you satisfied with the result?</p>
-        <p>I aimed for grade 3 and I did all the topics for grade 3. I think it was quite straight forward but I had some difficulties with the MySql</p>
-        <p>connection to the database but once I got that solved the rest worked out quite well.</p>
-        <br>
-        <p>What is your TIL for this course section?</p>
-        <p>I learned how to do some PHP coding and how to integrate php, JavaScpipt and Mysql into one project.</p>
-        </section>
+<section>
+<h2>S05</h2>
+<p>How do you feel about PHP as a programming language?</p>
+<p>I think it's quite straight forward </p>
+<br>
+<p>Can you compare PHP to other languages you know?</p>
+<p>I have only worked with Java and JavaScpipt so it was a bit different with example $ dollar sign before variables.</p>
+<br>
+<p>Describe how you took on the coding exercise, what grade did you aim for and are you satisfied with the result?</p>
+<p>I aimed for grade 3 and I did all the topics for grade 3. I think it was quite straight forward but I had some difficulties with the MySql</p>
+<p>connection to the database but once I got that solved the rest worked out quite well.</p>
+<br>
+<p>What is your TIL for this course section?</p>
+<p>I learned how to do some PHP coding and how to integrate php, JavaScpipt and Mysql into one project.</p>
+</section>
 
 <section>
 <h2>S06</h2>
@@ -145,11 +137,7 @@
 <p>Here is the text for this section.</p>
 </section>
 
-<footer>
-    <hr>
-    <p>This website contatins reports and assignments of Stina Ahlström</p>
-    <p>HAVE A NICE DAY !</p>
-</footer>
+<?php include 'view/footer.php';?>
 
 </article>
 
