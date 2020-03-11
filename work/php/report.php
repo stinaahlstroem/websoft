@@ -124,9 +124,39 @@
 </section>
 
 <section>
-<h2>S06</h2>
-<p>Here is the text for this section.</p>
-</section>
+    <h2>S06</h2>
+    <p>What is your own opinion on popularity of programming languages and what are your thoughts</p>
+    <p>of future popularity among programming languages?</p>
+    <p>Since I have not been programming before my education I have only got the feeling that Java </p>
+    <p>and C# seems to be a common programming language around workplaces. I think Java gives the</p>
+    <p>programmer more help and suggestions than what C# does. It’s important to find information</p>
+    <p>in how to solve an error if needed and I feel like Java is easier to find such information </p>
+    <p>and the program itself gives good ideas in how to solve the issue.</p>
+    <br>
+    <p>What will be your own choice for selecting future programming languages?</p>
+    <p>I would choose Java at first but that is only because it’s the language that I feel most comfortable</p>
+    <p>and since we have been using it a lot in school. Many websites and social platforms seems to be </p>
+    <p>developed in JavaScript and the more I get to code in it the more I like it.</p>
+    <br>
+    <p>Do your own investigation on https://trends.google.com to customize your own comparison on programming</p>
+    <p>languages (or frameworks) and elaborate on the results. </p>
+    <p>Due to the result in what people in Sweden are searching mostly for Java or JavaScript it is quite</p>
+    <p>close but JavaScript has always the leading position between those two. Based on the statistics northern</p>
+    <p>part of sweden and southern search more on JavaScript than the middle part.</p>
+    <br>
+    <p><img src="img/s06.PNG.jpg" width="500" alt="s06 image"></p>
+    <p><img src="img/s061.PNG.jpg" width="500" alt="s06 image"></p>
+    <br>
+    <p>If you were to recommend a language/framework/technology to your potential employer and your next</p>
+    <p>large project, what would it be and how would you “sell it”?</p>
+    <p>I would choose JavaScript since it seems easy to use and to integrate with other programming languages.</p>
+    <p>I would sell it by informing in how many big platforms that is using it today and that it is quite</p>
+    <p>easy to find information if one doesn’t know how to program in it.</p>
+    <br>
+    <p>What is your TIL for this course section?</p>
+    <p>To get more into what programming languages is the most popular ones around the globe and what type</p>
+    <p>of language developers are using it certain matters.</p>
+    </section>
 
 <section>
 <h2>S07</h2>
