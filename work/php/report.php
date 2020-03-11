@@ -118,10 +118,28 @@
 </section>
 
 <section>
-<h2>S07</h2>
-<p>Here is the text for this section.</p>
-</section>
-
+    <h2>S07</h2>
+    <p>Try to explain the platform .NET (C#, ASP.NET) to a skilled programmer, but newbie to this Microsoft technology.</p>
+    <p>ASP.NET is a web application framework. It is developed by Microsoft and it makes developers allowed to build dynamic</p>
+    <p>websites with full features to integrate with language like C# or VB.NET.</p>
+    <br> 
+    <p>Elaborate by comparing .NET technologies with the other technologies we learned during the course.</p>
+    <p>comparing asp.net, node.js, php: ASP.NET is an open-source server-side web application framework which allows the </p>
+    <p>programmer to build dynamic web applications and web services. Asp.net is highly security priority. PHP is a server-side</p>
+    <p>scripting language designed for web development. PHP is more efficient when building  e-commerce websites and for managing</p>
+    <p>dynamic content. Php is less built-in features for security.ASP.NET is better suited for large and medium-sized</p>
+    <p>organization whereas PHP is better equipped to server start-up and small sized organizations.</p>
+    <p>Node.js is an open-source, cross-platform which let the developers use JavaScript to write command line tools and</p>
+    <p>for server-side scripting to produce dynamic web page content before the page is sent to the user’s web browser.</p>
+    <p>Node.js is as secure as almost any programming languages but it is more up to the development team to check their</p>
+    <p>code and modules for vulnerabilities.</p>
+    <br>
+    <p>Describe how you took on the coding exercise, what grade did you aim for and are you satisfied with the result?</p>
+    <p>I aimed for grade 3 and I’m satisfied with the result since I have never been programming in .Net or C#</p>
+    <br>  
+    <p>What is your TIL for this course section?</p>
+    <p>I learned how to use .NET platform and to use C#. I have never been coding in C# before but I think it went quite well.</p>
+    </section>
 <section>
 <h2>S08</h2>
 <p>Here is the text for this section.</p>
