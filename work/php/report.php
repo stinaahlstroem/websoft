@@ -22,186 +22,269 @@
 </header>
 
 <section>
-<h2>S01</h2>
-<p>Did you before know about the techniques Git, GitHub, Markdown and/or GitHub Pages?</p>
-<p>I did know about Github since we have used it a little bit in the other courses.</p>
-<p>It’s good to learn how to push/commit etc from the command since we have used Github</p>
-<p>desktop most of the time. It has been easier since we haven’t got that much knowledge</p>
-<p>about how to use real Git.</p>
-<br>
-<p>Have you ever created websites before?</p>
-<p>We did some in the Software Engineering 2 but only the basic parts so it will be a</p>
-<p>great learning experience to learn more about how to create one.</p>
-<br>
-<p>Briefly explain your experience and knowledge of web application development.</p>
-<p>We have had some courses before but I feel like it was quite little so I would say</p> 
-<p>that I'm a total beginner and I’m looking forward to learn more about it.</p>
-<br>
-<p>What is your TIL for this course section?</p>
-<p>To learn more about how to use Github from the command prompt. how to Visual Studio Code</p>
-</section>
-
-<section>
-<h2>S02</h2>
-<p>Have you any previous experience of HTML, CSS and/or JavaScript?</p>
-<p>No, we have not had any courses that was teaching us how to code in this languages.</p>
-<p>We have done some CSS within projects but only very little.</p>
-<br> 
-<p>Explain the role of HTML, CSS and JavaScript in web development.</p>
-<p>HTML is a programming language which is the skeleton of the information on a web page.</p>
-<p>CSS is controlling the web pages appearance and JavaScript stands for the programming</p>
-<p>functionalities.</p>
-<p>HTML, CSS and JavaScript is the essentials for building a website.</p>
-<br>
-<p>Give a brief explanation of how the browser, the HTTP protocol and the web server interacts.</p>
-<p>A browser communicates with a web server through HTTP protocol.</p>
-<p>A browser makes a request to a web server to return a specific resource such as an image,</p>
-<p>video or webpage. Depending on the authenticity of the request, a server then returns the</p>
-<p>requested resource.</p>
-<br>   
-<p>What is your TIL for this course section?</p>
-<p>To learn more about CSS HTML and JavaScript and how to make them integrate with each other.</p>
-</section>
-
-<section>
-<h2>S03</h2>
-<p>Do you have any previous experience of client side JavaScript?</p>
-<p>No, I have never worked with client side javascript before or with JavaScpipt but I think</p>
-<p>it's a fun language to work with.</p>
-<br>
-<p>Can you compare and relate the JavaScript language to any other language you know?</p>
-<p>I have only worked with Java but I think JavaScpipt is similar in some ways. I find it</p>
-<p>fun to work with.</p>
-<br>
-<p>Describe how you worked with the coding exercise, what grade do you aim for and how did</p>
-<p>your code turn out to be?</p>
-<p>I did it with the help of youtube videos and google to find css etc. I aim for grade 3.</p>
-<br>
-<p>What is your TIL for this course section?</p>
-<p>To get more into javascript code and css. I think it is fun to add styling and its good</p>
-<p>that it's possible to try it before adding to the code by F12 in the windows.</p>
-</section>
-
-<section>
-<h2>S04</h2>
-<p>Tell me about your previous experience on node/npm or any equal programming tools.</p>
-<p>I have tried node a little bit. Programming tools that I have used before is git, github,</p>
-<p>MySql, bootstrap, Visual studios.</p>
-<br>
-<p>How do you feel about working with JavaScript, Node and Express?</p>
-<p>I think it is fun once you get more knowledge about how to use it and integrate with the</p>
-<p>different programs.</p>
-<br>
-<p>Explain how you did take on the coding assignment, did you have a plan and did it work?</p>
-<p>It worked after some research and tutorials. I found some information on StackOverflow and</p>
-<p>tried in the devtools before adding it to the project.</p>
-<br>
-<p> What grade did you aim for and was it a difficult level?</p>
-<p>I aimed for grade 3 since it was quite a lot new information.</p>
-<br>
-<p>What is your TIL for this course section?</p>
-<p>Today I learned how to work with express and Node and how to use them as a server instead of XAMPP.</p>
-</section>
-
-<section>
-<h2>S05</h2>
-<p>How do you feel about PHP as a programming language?</p>
-<p>I think it's quite straight forward </p>
-<br>
-<p>Can you compare PHP to other languages you know?</p>
-<p>I have only worked with Java and JavaScpipt so it was a bit different with example $ dollar</p>
-<p>sign before variables.</p>
-<br>
-<p>Describe how you took on the coding exercise, what grade did you aim for and are you satisfied</p>
-<p>with the result?</p>
-<p>I aimed for grade 3 and I did all the topics for grade 3. I think it was quite straight forward</p>
-<p>but I had some difficulties with the MySql</p>
-<p>connection to the database but once I got that solved the rest worked out quite well.</p>
-<br>
-<p>What is your TIL for this course section?</p>
-<p>I learned how to do some PHP coding and how to integrate php, JavaScpipt and Mysql into one</p>
-<p>project.</p>
-</section>
-
-<section>
+    <h2>S01</h2>
+    <p><b>Did you before know about the techniques Git, GitHub, Markdown and/or GitHub Pages?</b></p>
+    <p>I did know about Github since we have used it a little bit in the other courses.</p>
+    <p>It’s good to learn how to push/commit etc from the command since we have used Github</p>
+    <p>desktop most of the time. It has been easier since we haven’t got that much knowledge</p>
+    <p>about how to use real Git.</p>
+    <br>
+    <p><b>Have you ever created websites before?</b></p>
+    <p>We did some in the Software Engineering 2 but only the basic parts so it will be a</p>
+    <p>great learning experience to learn more about how to create one.</p>
+    <br>
+    <p><b>Briefly explain your experience and knowledge of web application development.</b></p>
+    <p>We have had some courses before but I feel like it was quite little so I would say</p> 
+    <p>that I'm a total beginner and I’m looking forward to learn more about it.</p>
+    <br>
+    <p><b>What is your TIL for this course section?</b></p>
+    <p>To learn more about how to use Github from the command prompt. how to Visual Studio Code</p>
+    </section>
+    
+    <section>
+    <h2>S02</h2>
+    <p><b>Have you any previous experience of HTML, CSS and/or JavaScript?</b></p>
+    <p>No, we have not had any courses that was teaching us how to code in this languages.</p>
+    <p>We have done some CSS within projects but only very little.</p>
+    <br> 
+    <p><b>Explain the role of HTML, CSS and JavaScript in web development.</b></p>
+    <p>HTML is a markup language which is the skeleton of the information on a web page.</p>
+    <p>CSS is controlling the web pages appearance and JavaScript stands for the programming</p>
+    <p>functionalities. HTML, CSS and JavaScript is the essentials for building a website.</p>
+    <br>
+    <p><b>Give a brief explanation of how the browser, the HTTP protocol and the web server interacts.</b></p>
+    <p>A browser communicates with a web server through HTTP protocol.</p>
+    <p>A browser makes a request to a web server to return a specific resource such as an image,</p>
+    <p>video or webpage. Depending on the authenticity of the request, a server then returns the</p>
+    <p>requested resource.</p>
+    <br>   
+    <p><b>What is your TIL for this course section?</b></p>
+    <p>I have learned more about CSS HTML and JavaScript and how to make them integrate with each other.</p>
+    </section>
+    
+    <section>
+    <h2>S03</h2>
+    <p><b>Do you have any previous experience of client side JavaScript?</b></p>
+    <p>No, I have never worked with client side javascript before or with JavaScpipt but I think</p>
+    <p>it's a fun language to work with.</p>
+    <br>
+    <p><b>Can you compare and relate the JavaScript language to any other language you know?</b></p>
+    <p>I have only worked with Java but I think JavaScpipt is similar in some ways. I find it</p>
+    <p>fun to work with.</p>
+    <br>
+    <p><b>Describe how you worked with the coding exercise, what grade do you aim for and how did</b></p>
+    <p><b>your code turn out to be?</b></p>
+    <p>I did it with the help of youtube videos and google to find css etc. I aim for grade 3.</p>
+    <br>
+    <p><b>What is your TIL for this course section?</b></p>
+    <p>To get more into javascript code and css. I think it is fun to add styling and its good</p>
+    <p>that it's possible to try it before adding to the code by using devtools in my browser.</p>
+    </section>
+    
+    <section>
+    <h2>S04</h2>
+    <p><b>Tell me about your previous experience on node/npm or any equal programming tools.</b></p>
+    <p>I have tried node a little bit. Programming tools that I have used before is git, github,</p>
+    <p>MySql, bootstrap, Visual studios.</p>
+    <br>
+    <p><b>How do you feel about working with JavaScript, Node and Express?</b></p>
+    <p>I think it is fun once you get more knowledge about how to use it and integrate with the</p>
+    <p>different programs.</p>
+    <br>
+    <p><b>Explain how you did take on the coding assignment, did you have a plan and did it work?</b></p>
+    <p>It worked after some research and tutorials. I found some information on StackOverflow and</p>
+    <p>tried in the devtools before adding it to the project.</p>
+    <br>
+    <p><b>What grade did you aim for and was it a difficult level?</b></p>
+    <p>I aimed for grade 3 since it was quite a lot new information.</p>
+    <br>
+    <p><b>What is your TIL for this course section?</b></p>
+    <p>Today I learned how to work with express and Node and how to use them as a server instead of XAMPP.</p>
+    </section>
+    
+    <section>
+    <h2>S05</h2>
+    <p><b>How do you feel about PHP as a programming language?</b></p>
+    <p>I think it's quite straight forward </p>
+    <br>
+    <p><b>Can you compare PHP to other languages you know?</b></p>
+    <p>I have only worked with Java and JavaScpipt so it was a bit different with example $ dollar</p>
+    <p>sign before variables.</p>
+    <br>
+    <p><b>Describe how you took on the coding exercise, what grade did you aim for and are you satisfied</b></p>
+    <p><b>with the result?</b></p>
+    <p>I aimed for grade 3 and I did all the topics for grade 3. I think it was quite straight forward</p>
+    <p>but I had some difficulties with the MySql connection to the database but once I got that solved</p>
+    <p>the rest worked out quite well.</p>
+    <br>
+    <p><b>What is your TIL for this course section?</b></p>
+    <p>I learned how to do some PHP coding and how to integrate php, JavaScpipt and Mysql into one</p>
+    <p>project.</p>
+    </section>
+    
+    <section>
     <h2>S06</h2>
-    <p>What is your own opinion on popularity of programming languages and what are your thoughts</p>
-    <p>of future popularity among programming languages?</p>
+    <p><b>What is your own opinion on popularity of programming languages and what are your thoughts</b></p>
+    <p><b>of future popularity among programming languages?</b></p>
     <p>Since I have not been programming before my education I have only got the feeling that Java </p>
     <p>and C# seems to be a common programming language around workplaces. I think Java gives the</p>
     <p>programmer more help and suggestions than what C# does. It’s important to find information</p>
     <p>in how to solve an error if needed and I feel like Java is easier to find such information </p>
     <p>and the program itself gives good ideas in how to solve the issue.</p>
     <br>
-    <p>What will be your own choice for selecting future programming languages?</p>
+    <p><b>What will be your own choice for selecting future programming languages?</b></p>
     <p>I would choose Java at first but that is only because it’s the language that I feel most comfortable</p>
     <p>and since we have been using it a lot in school. Many websites and social platforms seems to be </p>
     <p>developed in JavaScript and the more I get to code in it the more I like it.</p>
     <br>
-    <p>Do your own investigation on https://trends.google.com to customize your own comparison on programming</p>
-    <p>languages (or frameworks) and elaborate on the results. </p>
+    <p><b>Do your own investigation on <a href="https://trends.google.com">https://trends.google.com</a> to customize your own comparison</b></p>
+    <p><b>on programming languages (or frameworks) and elaborate on the results.</b></p>
     <p>Due to the result in what people in Sweden are searching mostly for Java or JavaScript it is quite</p>
     <p>close but JavaScript has always the leading position between those two. Based on the statistics northern</p>
     <p>part of sweden and southern search more on JavaScript than the middle part.</p>
     <br>
-    <p><img src="img/s06.PNG.jpg" width="500" alt="s06 image"></p>
-    <p><img src="img/s061.PNG.jpg" width="500" alt="s06 image"></p>
+    <img src="img/s06.PNG" width="500" alt="s06 image">
+    <img src="img/s061.PNG" width="500" alt="s06 image">
     <br>
-    <p>If you were to recommend a language/framework/technology to your potential employer and your next</p>
-    <p>large project, what would it be and how would you “sell it”?</p>
+    <p><b>If you were to recommend a language/framework/technology to your potential employer and your next</b></p>
+    <p><b>large project, what would it be and how would you “sell it”?</b></p>
     <p>I would choose JavaScript since it seems easy to use and to integrate with other programming languages.</p>
     <p>I would sell it by informing in how many big platforms that is using it today and that it is quite</p>
     <p>easy to find information if one doesn’t know how to program in it.</p>
     <br>
-    <p>What is your TIL for this course section?</p>
+    <p><b>What is your TIL for this course section?</b></p>
     <p>To get more into what programming languages is the most popular ones around the globe and what type</p>
     <p>of language developers are using it certain matters.</p>
     </section>
+    
+    <section>
+    <h2>S07</h2>
+    <p><b>Try to explain the platform .NET (C#, ASP.NET) to a skilled programmer, but newbie to this</b></p>
+    <p><b>Microsoft technology.</b></p>
+    <p>ASP.NET is a web application framework. It is developed by Microsoft and it makes developers allowed</p>
+    <p>to build dynamic websites with full features to integrate with languages like C# or VB.NET.</p>
+    <br> 
+    <p><b>Elaborate by comparing .NET technologies with the other technologies we learned during the</b></p>
+    <p><b>course.</b></p>
+    <p>Comparing asp.net, node.js, php: ASP.NET is an open-source server-side web application </p>
+    <p>framework which allows the programmer to build dynamic web applications and web services.</p>
+    <p>Asp.net is highly security priority. PHP is a server-side scripting language designed for </p>
+    <p>web development. PHP is more efficient when building  e-commerce websites and for managing</p>
+    <p>dynamic content. Php is less built-in features for security.ASP.NET is better suited for large </p>
+    <p>and medium-sized organization whereas PHP is better equipped to server start-up and small </p>
+    <p>sized organizations. Node.js is an open-source, cross-platform which let the developers use</p>
+    <p>JavaScript to write command line tools and for server-side scripting to produce dynamic webpage</p>
+    <p>content before the page is sent to the user’s web browser. Node.js is as secure as almost any </p>
+    <p>programming languages but it is more up to the development team to check their code and modules</p>
+    <p>for vulnerabilities.</p>
+    <br>
+    <p><b>Describe how you took on the coding exercise, what grade did you aim for and are you satisfied</b></p>
+    <p><b>with the result?</b></p>
+    <p>I aimed for grade 3 and I’m satisfied with the result since I have never been programming in</p>
+    <p>.Net or C#</p>
+    <br>  
+    <p><b>What is your TIL for this course section?</b></p>
+    <p>I learned how to use .NET platform and to use C#. I have never been coding in C# before but</p>
+    <p>I think it went quite well.</p>
+    </section>
 
-<section>
-<h2>S07</h2>
-<p>Try to explain the platform .NET (C#, ASP.NET) to a skilled programmer, but newbie to this</p>
-<p>Microsoft technology. ASP.NET is a web application framework. It is developed by Microsoft</p>
-<p>and it makes developers allowed to build dynamic websites with full features to integrate</p>
-<p>with language like C# or VB.NET.</p>
-<br> 
-<p>Elaborate by comparing .NET technologies with the other technologies we learned during the</p>
-<p>course.</p>
-<p>comparing asp.net, node.js, php: ASP.NET is an open-source server-side web application </p>
-<p>framework which allows the programmer to build dynamic web applications and web services.</p>
-<p>Asp.net is highly security priority. PHP is a server-side scripting language designed for </p>
-<p>web development. PHP is more efficient when building  e-commerce websites and for managing</p>
-<p>dynamic content. Php is less built-in features for security.ASP.NET is better suited for large </p>
-<p>and medium-sized organization whereas PHP is better equipped to server start-up and small </p>
-<p>sized organizations. Node.js is an open-source, cross-platform which let the developers use</p>
-<p>JavaScript to write command line tools and for server-side scripting to produce dynamic webpage</p>
-<p>content before the page is sent to the user’s web browser. Node.js is as secure as almost any </p>
-<p>programming languages but it is more up to the development team to check their code and modules</p>
-<p>for vulnerabilities.</p>
-<br>
-<p>Describe how you took on the coding exercise, what grade did you aim for and are you satisfied</p>
-<p>with the result?</p>
-<p>I aimed for grade 3 and I’m satisfied with the result since I have never been programming in</p>
-<p>.Net or C#</p>
-<br>  
-<p>What is your TIL for this course section?</p>
-<p>I learned how to use .NET platform and to use C#. I have never been coding in C# before but</p>
-<p>I think it went quite well.</p>
-</section>
 
-<section>
-<h2>S08</h2>
-<p>Here is the text for this section.</p>
-</section>
+    <section>
+    <h2>S08</h2>
+    <p><b>Websites to analyse:</b></p>
+        <p>I choose to work with Google, Twitch and YouTube. I chose to work with these three since twitch and</p>
+        <p>YouTube are quite similar since both have livestreams and recorded videos but google is a search engine.</p>
+        <p>I found these three interesting to analyse.</p>
+        <p><b>Devtools network tab:</b></p>
+        <img src="img/table.PNG" width="500" alt="table">
+        
+        <p><b>PageSpeed</b></p>
+        <p>Twitch:</p>
+        <img src="img/s08twitchpagespeed.PNG" width="500" alt="twitch">
+        <p>YouTube:</p>
+        <img src="img/s08youtubepagespeed.PNG" width="500" alt="youtube">
+        <p>Google:</p>
+        <img src="img/s08googlepagespeed.PNG" width="500" alt="google">
+        
+        <p><b>LightHouse</b></p>
+        <p>Twitch:</p>
+        <img src="img/s08twich.PNG" width="500" alt="twitch">
+        <p>YouTube:</p>
+        <img src="img/s08youtube.PNG" width="500" alt="youtube">
+        <p>Google:</p>
+        <img src="img/s08google.PNG" width="500" alt="google">
+        <br>
+        
+        <p>The test results shown as expected that youtube and twitch are more heavy programs for the computer</p>
+        <p>to work with. The recommendation for for a page load is under 3 seconds. To make performance better</p>
+        <p>it is required to move the website to a better host, use website caching, use less number of JavaScript</p>
+        <p>and CSS files.</p>
+        <br>
+        <p><b>Summarizing</b></p>
+        <p>Web performance is all about making websites fast or so that the user can interact with it quickly.</p>
+        <p>If there is an issue with loading the page the user should get feedback if the website takes time to</p>
+        <p>load and why. The website should be as smooth as possible so that the user is enjoying using it.</p>
+        <p>Web performance is about reducing overall load time which is caused by latency how big the files</p>
+        <p>are and how many files. The best strategy for reducing the load time is to make the files as small</p>
+        <p>as possible and reduce the number of HTTP requests if possible.</p>
+        <br>
+        <p>The website should be usable as soon as possible so that the user can use it really quick. The website</p>
+        <p>can continue to load any other assets in the background but the user should be able to get on with</p>
+        <p>primary tasks. It should be smooth in all aspects such as scrolling, clicking buttons and animations</p>
+        <p>should run smoothly.The website should be fast in loading for best possible user experience. </p>
+        <p>Performance measurements is involving measure the actual speed of the application, optimizing</p>
+        <p>where possible and  then monitoring the performance. Many features impact the performance in </p>
+        <p>websites including latency, number of DOM nodes, application size, resource requests, JavaScript</p>
+        <p>performance, CPU load etc. It is important to minimize the loading and response time, and making</p>
+        <p>the experience as fast, available and interactive as possible so that the user has the best </p>
+        <p>experience possible.</p>
+        <br>
+        <p><b>What is your TIL for this course section?</b></p>
+        <p>I learned how to use Devtools network tab, PageSpeed Insights and Lighthouse and how to find the</p>
+        <p>performance.</p>
+        </section>
 
 <section>
 <h2>S09</h2>
-<p>Here is the text for this section.</p>
-</section>
-
-<section>
-<h2>S10</h2>
-<p>Here is the text for this section.</p>
+<p><b>1. Elaborate on a few (3-5) different security issues or concerns, from your own experience,</b></p>
+<p><b>related to web application security and relate them to the OWASP top ten.</b></p>
+<br>
+<p><b>Sensitive Data Exposure</b></p>
+<p>When creating a website it is important to think of all the security issues that can occur</p>
+<p>when users are interacting with the website. Users information or personal data should</p>
+<p>not be available for other users and should be well protected for potential hackers. This</p>
+<p>is the concern of “Sensitive Data Exposure” in the OWASP. </p>
+<br>
+<p><b>Broken Access Control</b></p>
+<p>Websites is also very vulnerable to access control system that controls the information</p>
+<p>functionality such as authorization and perform tasks as they were privileged users such </p>
+<p>as administrators. This is a big concern when building a website since attackers can get </p>
+<p>access to the websites administrating section. This issue is referred to the “Broken </p>
+<p>Access Control” in OWASP. Many services uses authorization tokens when users log </p>
+<p>in to ensure that the user say who they are and in this way it is possible to save </p>
+<p>credentials so that the user does not constantly have to login every time they enter </p>
+<p>the website. </p>
+<br>
+<p><b>Logging and monitoring</b></p>
+<p>Many websites are not taking enough steps in ensuring that there is no detect data </p>
+<p>breaches. “Insufficient logging and monitoring” from OWASP is what gives the attackers </p>
+<p>the opportunity to hack the website. Developers must be concerned when implementing</p>
+<p>logging, monitoring and incident response plans to make sure that the website is aware</p> 
+<p>if an attack happen.</p>
+<br>
+<p><b>The essential guidelines to follow to create secure web applications.</b></p>
+<p>To create a trustful and reliable website for both users and administrators the developers</p> 
+<p>must think of all the possible threats when creating the website. The developers must </p>
+<p>prioritize vulnerabilities and minimize the risks of authorization gets in the wrong hands. </p>
+<p>Users should feel protected in order to wanting to use the website so that their personal </p>
+<p>information never leaks or a hacker gets access to it. </p>
+<p>To avoid the two first concerns is it important that the developing team has built a website </p>
+<p>that indicate if an incident occurs or a possible threat to the website.</p>
+<br>
+<p><b>What is your TIL for this course section?</b></p>
+<p>I learn more about the concerns in security for web applications and all many possible </p>
+<p>threats when creating a website. It is important as a developer to create a website as </p>
+<p>secure as possible and have a “incident response plan” if an attack occurs.</p>
 </section>
 
 <?php include 'view/footer.php';?>
