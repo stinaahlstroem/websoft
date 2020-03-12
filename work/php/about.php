@@ -19,9 +19,9 @@
 
 <h1>About</h1>
 
-<p>This website is part of the course websoft <a href="https://www.hkr.se/kurs/DA377B/kursplan">Programvaruutveckling för webben</a>.</p>
-
-<p>This course name is "Software Development of the web" and it is very intresting. This is my first website with reports and a presentation about me!</p>
+<p>This website is part of the course Software Development for the Web <a href="https://www.hkr.se/kurs/DA377B/kursplan"></a>.</p>
+<p>The course name is "Software Development of the web" and it is very intresting.</p>
+<p>This is my first website with reports and a presentation about me!</p>
 
 <p><img src="img/web-application-development.png" width="500" alt="web-application-development"></p>
 
