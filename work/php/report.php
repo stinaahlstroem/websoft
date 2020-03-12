@@ -197,23 +197,31 @@
         <p>I found these three interesting to analyse.</p>
         <p><b>Devtools network tab:</b></p>
         <img src="img/table.PNG" width="500" alt="table">
+<p>The data shows that Google is the fastest to load since it does not contain images or videos in the</p>
+<p>front page and has only 80.0KB and DOM content load of 487ms. Twitch has the most content with</p>
+<p>9.2MB although it only takes 773 ms to load and YouTube transferred 2.2MB in 2.93s which is slower</p>
+<p>than twitch. These three websites is three of the most popular ones so there is not much to improve</p>
+<p>within the websites or the performance.</p>
+<br>
         
-        <p><b>PageSpeed</b></p>
-        <p>Twitch:</p>
-        <img src="img/s08twitchpagespeed.PNG" width="500" alt="twitch">
-        <p>YouTube:</p>
-        <img src="img/s08youtubepagespeed.PNG" width="500" alt="youtube">
-        <p>Google:</p>
-        <img src="img/s08googlepagespeed.PNG" width="500" alt="google">
         
-        <p><b>LightHouse</b></p>
-        <p>Twitch:</p>
-        <img src="img/s08twich.PNG" width="500" alt="twitch">
-        <p>YouTube:</p>
-        <img src="img/s08youtube.PNG" width="500" alt="youtube">
-        <p>Google:</p>
-        <img src="img/s08google.PNG" width="500" alt="google">
-        <br>
+<p><b>PageSpeed</b></p>
+<p><b>Twitch:</b></p>
+<img src="img/s08twitchpagespeed.PNG" width="500" alt="twitch">
+<p><b>YouTube:</b></p>
+<img src="img/s08youtubepagespeed.PNG" width="500" alt="youtube">
+<p><b>Google:</b></p>
+<img src="img/s08googlepagespeed.PNG" width="500" alt="google">
+
+<p><b>LightHouse</b></p>
+<p><b>Twitch:</b></p>
+<img src="img/s08twich.PNG" width="500" alt="twitch">
+<p><b>YouTube:</b></p>
+<img src="img/s08youtube.PNG" width="500" alt="youtube">
+<p><b>Google:</b></p>
+<img src="img/s08google.PNG" width="500" alt="google">
+<br>
+
         
         <p>The test results shown as expected that youtube and twitch are more heavy programs for the computer</p>
         <p>to work with. The recommendation for for a page load is under 3 seconds. To make performance better</p>
