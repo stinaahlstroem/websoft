@@ -299,7 +299,7 @@
 <p>difficult / fast / long time, etc. Was the project easy or difficult? Did it take a long time?</p>
 <p>What was difficult and what went easy? Was this a good and reasonable project for this course?</p>
 <p>How was it to work in a team?</b></p>
-<h2>Implementing techniques:</h2>
+<p><b>Implementing techniques:</b></p>
           <p>Webserver: Node.js express</p>
           <p>View engine: ejs</p>
           <p>Database: MySql MariaDB</p>
@@ -318,18 +318,18 @@
 <p>be used in the project. I think it was a reasonable project I aimed for grade 3 since I did not have</p>
 <p>any experience before. I was working alone and it went well.</p>
 <br>
-<p>Finish with a final paragraph with your thoughts on the course and what you think about the</p>
+<p><b>Finish with a final paragraph with your thoughts on the course and what you think about the</p>
 <p>material and the guide (about 5-10 sentences). Provide feedback to teachers and suggest any</p>
 <p>improvement suggestions for upcoming course opportunities. Are you satisfied / dissatisfied?</p>
 <p>Will you recommend the course to your friends / colleagues? On a scale of 1-10, what grade do</p>
-<p>you give the course?
+<p>you give the course?</b></p>
 <p>I think the course was really good and well structured. It was great that Mikael uploaded the</p>
 <p>lectures on YouTube so we could follow it from home and see it again if we missed out on something</p>
 <p>I don't have any suggestions on how to improve the course, in my opinion it was one of the best</p>
 <p>courses we have had all because of how well it was structured. I'm really satisfied and I will</p>
 <p>recommend it! I give this course a 10!</p>
 <br>
-<p>What is your final TIL for this course?</p>
+<p><b>What is your final TIL for this course?</b></p>
 <p>I have learned how to work with JavaScript, HTML, CSS and all the needed tools to create a webpage.</p>
 <p>I have also gotten more knowledge in how to use github which was really good!</p>
 </section>
